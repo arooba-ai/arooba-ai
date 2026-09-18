@@ -108,3 +108,5 @@ Figma-based fashion e-commerce mobile UI/UX prototype.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0B1120&height=120&section=footer" width="100%" alt="footer" />
+
+<!-- profile-cache-refresh: 2026-09-18 -->
