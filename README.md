@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/github/followers/arooba-ai?label=Followers&style=flat-square&color=7DD3FC&labelColor=0D1117" alt="GitHub Followers" />
 </div>
 
-## Who I Am
+<h2>Who I Am</h2>
 
-```ts
+<pre>
 const arooba = {
-  title: "AI & Data Science Student",
+  title: "AI &amp; Data Science Student",
   stack: [
     "Python", "C#", "Java", "SQL",
     "Cisco Packet Tracer", "Computer Networking",
@@ -28,11 +28,11 @@ const arooba = {
   status: "Actively building projects across software, data, and design",
   openTo: ["Internship Opportunities"]
 };
-```
+</pre>
 
-## Featured Projects
+<h2>Featured Projects</h2>
 
-### 🍽️ Gr8Food — Restaurant Management System
+<h3>🍽️ Gr8Food — Restaurant Management System</h3>
 
 C# Windows Forms restaurant management system using SQL Server, including ordering, menu, wallet, feedback, and reporting functionality.
 
@@ -47,7 +47,7 @@ C# Windows Forms restaurant management system using SQL Server, including orderi
 
 🔗 [View Code](https://github.com/arooba-ai/Gr8Food-Restaurant-Management-System)
 
-### 👗 Fashion E-commerce Prototype
+<h3>👗 Fashion E-commerce Prototype</h3>
 
 Figma-based fashion e-commerce mobile UI/UX prototype.
 
@@ -62,7 +62,7 @@ Figma-based fashion e-commerce mobile UI/UX prototype.
 
 🔗 [View Code](https://github.com/arooba-ai/Fashion-Ecommerce-Prototype)
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 **Languages**
 
@@ -78,7 +78,7 @@ Figma-based fashion e-commerce mobile UI/UX prototype.
 
 <sub>SQL, Cisco Packet Tracer, and Computer Networking aren't shown as icons above — skillicons.dev has no accurate generic icon for them without implying a specific vendor tool I haven't confirmed (e.g. a specific database engine). They're listed in the object above and in the project tables instead.</sub>
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=arooba-ai&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=E9EBF3" alt="Arooba's GitHub Stats" height="165" />
@@ -99,7 +99,7 @@ Figma-based fashion e-commerce mobile UI/UX prototype.
 
 <sub>Note: as of this writing, github-readme-activity-graph.vercel.app's public instance is returning a billing-related outage (HTTP 402) — I verified this directly rather than assuming. This is the correct, canonical URL for the service, so it's left in place per your instructions; it should start rendering again once the maintainer's deployment is restored, with no changes needed on your end.</sub>
 
-## Connect
+<h2>Connect</h2>
 
 <a href="https://github.com/arooba-ai">
   <img src="https://img.shields.io/badge/GitHub-arooba--ai-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub" />
